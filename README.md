@@ -1,6 +1,6 @@
 # fuhanc
 
-> 基于Vue-cli与webpack的音乐界面
+> 基于Vue-cli与webpack的小型增删改查人事管理系统（手机端的）
 
 ## Build Setup
 
